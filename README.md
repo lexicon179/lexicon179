@@ -9,8 +9,8 @@ I build small tools with clean interfaces on open protocols, the kind you can ru
 
 ### Now
 
-**A Farcaster client that runs from your own node.**
-Three commands: a Snapchain read node, a minimal client served from your server, and an app key of its own. No API keys, no middleman. Repo lands this week.
+**[townhall](https://github.com/lexicon179/townhall)**, a calm Farcaster client that runs from your own node.
+Three commands: a Snapchain read node, a minimal client served from your server, and an app key of its own. No API keys, no middleman. Voters-only feed, replies from mutuals.
 
 ### How I work
 
