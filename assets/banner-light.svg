@@ -1,18 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="pill — small, sharp products on open protocols">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="lexicon — building software you run yourself">
   <rect width="1280" height="360" rx="24" fill="#f3f4f1"/>
   <rect x="0.5" y="0.5" width="1279" height="359" rx="24" fill="none" stroke="#dcdfd9"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="88" y="196" font-size="132" font-weight="800" letter-spacing="-7" fill="#16181b">pill</text>
-    <text x="92" y="272" font-size="30" font-weight="500" fill="#6c7178" letter-spacing="-0.4">Small, sharp products on open protocols.</text>
-    <circle cx="98" cy="318" r="6" fill="#1f4bff"/>
-    <text x="116" y="325" font-size="20" font-weight="600" fill="#16181b">Now building</text>
-    <text x="252" y="325" font-size="20" fill="#6c7178">a Farcaster client that runs from your own node</text>
+    <text x="84" y="178" font-size="112" font-weight="800" letter-spacing="-6" fill="#16181b">lexicon</text>
+    <text x="90" y="240" font-size="30" font-weight="500" fill="#6c7178" letter-spacing="-0.4">Building software you run yourself.</text>
+    <circle cx="96" cy="300" r="6" fill="#1f4bff"/>
+    <text x="114" y="307" font-size="20" font-weight="600" fill="#16181b">Now</text>
+    <text x="168" y="307" font-size="20" fill="#6c7178">a Farcaster client that runs from your own node</text>
   </g>
-  <g transform="translate(1010 180) rotate(-32)">
-    <rect x="-150" y="-62" width="300" height="124" rx="62" fill="#ffffff" stroke="#16181b" stroke-width="3"/>
-    <path d="M0 -62 H88 A62 62 0 0 1 88 62 H0 Z" fill="#1f4bff"/>
-    <rect x="-150" y="-62" width="300" height="124" rx="62" fill="none" stroke="#16181b" stroke-width="3"/>
-    <line x1="0" y1="-62" x2="0" y2="62" stroke="#16181b" stroke-width="3"/>
-    <rect x="-118" y="-40" width="54" height="12" rx="6" fill="#16181b" opacity="0.08"/>
+  <g transform="translate(1030 180)">
+    <circle r="150" fill="none" stroke="#c9ccd4" stroke-width="2"/>
+    <circle r="96" fill="none" stroke="#c9ccd4" stroke-width="2"/>
+    <circle r="56" fill="#1f4bff" opacity="0.16"/>
+    <circle r="35" fill="#1f4bff"/>
+    <circle cx="106" cy="-106" r="8" fill="#16181b"/>
+    <circle cx="-90" cy="120" r="6" fill="#6c7178"/>
+    <circle cx="-148" cy="-24" r="5" fill="#6c7178"/>
   </g>
 </svg>
