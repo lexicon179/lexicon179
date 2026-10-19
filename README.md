@@ -12,12 +12,10 @@ I make small products people get in one look. Farcaster, Base, onchain.
 **A Farcaster client that runs from your own node.**
 Three commands give you a Snapchain read node, a clean client and your own app key. No API keys, no middleman. Repo is landing this week.
 
-### Shipped
+### Made
 
-|  |  |
-|---|---|
-| **$PILL** | A memecoin on Base with its own corner of Farcaster, [@pilll](https://farcaster.xyz/pilll). |
-| **Daily PILL** | A Farcaster mini app. One pull a day, limited editions minted onchain. |
+- **$PILL**, a memecoin on Base with its own corner of Farcaster, [@pilll](https://farcaster.xyz/pilll)
+- **Daily PILL**, a Farcaster mini app: one pull a day, limited editions minted onchain
 
 ### How I build
 
